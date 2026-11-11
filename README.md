@@ -27,11 +27,15 @@ luminastore/
 ├── index.html            # Main single-page application HTML structure
 
 ├── assets/
+
 │   ├── logo_bg.png       # Store favicon / branding asset
+
 │   └── heroA.jpg       # Custom background image for Hero section
 
 ├── css/
+
 │   └── style.css         # Animations, filter button states, & custom background CSS
 
 └── js/
+
     └── app.js            # State management, API calls, cart engine, and SPA router
